@@ -1,4 +1,4 @@
-# Analyze-NYSE-Data
+# Analyze NYSE Data
 
 The New York Stock Exchange data analysis project aims to analyze data related to companies listed on the stock exchange and identify patterns and trends in prices, returns, and financial performance. The project consists of several parts, including a statistical analysis, an income statement for each company, and a forecasting model.
 
